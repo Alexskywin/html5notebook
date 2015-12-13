@@ -8,4 +8,5 @@
 2. [HTML5新增的主体结构元素](./2/2.HTML5新增的主体结构元素.md)  
 2.1 [article元素](./2/2.1article元素.md)  
 2.2 [section元素](./2/2.2section元素.md)  
-2.3 [nav元素](./2/2.3nav元素.md)
+2.3 [nav元素](./2/2.3nav元素.md)  
+2.4 [aside元素](./2/2.4aside元素.md)  
