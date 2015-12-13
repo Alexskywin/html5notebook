@@ -6,5 +6,5 @@
 1.3 [全局属性](./1/1.3全局属性.md)
 
 2. [HTML5新增的主体结构元素](./2/2.HTML5新增的主体结构元素.md)  
-2.1 [article元素](./2/2.1article元素.md)
+2.1 [article元素](./2/2.1article元素.md)  
 2.2 [section元素](./2/2.2section元素.md)
