@@ -10,3 +10,4 @@
 2.2 [section元素](./2/2.2section元素.md)  
 2.3 [nav元素](./2/2.3nav元素.md)  
 2.4 [aside元素](./2/2.4aside元素.md)  
+2.5 [time元素与微格式](./2/2.5time元素与微格式.md)  
